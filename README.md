@@ -1,3 +1,5 @@
+![](https://github.com/SnehaR91/SnehaR91/blob/main/Hello.gif)
+
 - 👋 Hi, I’m @SnehaR91
 - I’m interested in anything and everything technology. I might not know much about a topic but I'm always willing to learn. 
 - I’m currently learning Machine Learning Foundations and all about REST APIs
